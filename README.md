@@ -1,4 +1,15 @@
-# Awesome Kazakhstan Dev [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Kazakhstan Dev" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <img src="https://img.shields.io/github/stars/godz1llla/awesome-kazakhstan-dev?style=social" alt="GitHub stars">
+  <img src="https://img.shields.io/badge/license-CC0-blue.svg" alt="License: CC0">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome">
+</p>
+
+# Awesome Kazakhstan Dev
 
 > 🇰🇿 Кураторский список ресурсов для IT-специалистов Казахстана: компании, гранты, обучение, комьюнити, датасеты и инструменты.
 
