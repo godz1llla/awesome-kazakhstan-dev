@@ -179,6 +179,8 @@ Open-source инструменты, полезные именно в казах�
 - [DevKZ Jobs](https://t.me/devkz_jobs) — вакансии от сообщества devkz.
 - [IT Jobs (DSML.KZ)](https://t.me/it_jobs_kz) — вакансии в Data Science / ML.
 - [Golang vacancies in KZ](https://t.me/go_kz_vacancy) — вакансии для Go-разработчиков.
+- [Data Jobs KZ](https://t.me/datajobskz) — вакансии в DS, ML, Data Engineering.
+- [KZ BI Jobs](https://t.me/kz_bi_jobs) — вакансии для DA & BI аналитиков.
 
 ---
 
