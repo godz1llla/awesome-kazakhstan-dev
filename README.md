@@ -48,6 +48,8 @@
 - [DAR / Digital Business](https://dar.tech) — экосистема цифровых продуктов.
 - [Beeline Kazakhstan](https://beeline.kz) — телеком и цифровые сервисы.
 - [Kcell](https://www.kcell.kz) — телеком-оператор.
+- [KTS.kz](https://kts.kz) — казахстанская виртуальная АТС от одноимённого оператора городской телефонной сети из Костаная.
+- [Kopsoz.kz](https://kopsoz.kz) — казахстанская IT-компания. [Telegram](https://t.me/kopsoz_kz)
 
 > 💡 Более полный список резидентов — на портале [Astana Hub](https://astanahub.com).
 
@@ -102,6 +104,8 @@
 - [Flutter Dart KZ](https://t.me/dart_kz) — Flutter/Dart.
 - [KazDevOps](https://t.me/devopskaz) — DevOps.
 - [AQA Kazakhstan](https://t.me/AQA_kz) — QA-автоматизация.
+- [DataKZ](https://t.me/datakz) — DS, ML, Data Engineering.
+- [KZ BI](https://t.me/kz_bi) — Data & BI аналитики.
 
 > 📚 Более полный и регулярно обновляемый список — [KZ-IT-telegram-list](https://github.com/c0rp-aubakirov/KZ-IT-telegram-list).
 > ⚠️ Ссылки на Telegram-чаты со временем протухают — нашли мёртвую? [Сообщите через PR/Issue](CONTRIBUTING.md).
