@@ -81,9 +81,30 @@
 
 - [Astana Hub Community](https://astanahub.com) — крупнейшее IT-сообщество страны.
 - [GDG (Google Developer Groups) Almaty / Astana](https://gdg.community.dev) — митапы Google-разработчиков.
-- Telegram-чаты по стекам (JS, Python, Go, DevOps, QA) — см. раздел в [CONTRIBUTING](CONTRIBUTING.md), добавляйте актуальные ссылки через PR.
 
-> ⚠️ Ссылки на Telegram-чаты часто протухают — держим только живые, добавляйте проверенные через PR.
+### Telegram — общие
+
+- [Programmers Kazakhstan (devkz)](https://t.me/devkz) — главный чат разработчиков КЗ.
+- [IT.kz (allkzit)](https://t.me/allkzit) — общий IT-чат страны.
+- [The Tech KZ Chat](https://t.me/thetechkzchat) — сообщество вокруг медиа The Tech.
+
+### Telegram — по стекам
+
+- [Frontend Kazakhstan](https://t.me/frontendkz) — фронтенд-разработчики.
+- [Backend Developers Kazakhstan](https://t.me/backenderskz) — бэкенд.
+- [Python Kazakhstan](https://t.me/python_kz) — Python.
+- [Golang Kazakhstan](https://t.me/go_kz) — Go.
+- [Astana JUG](https://t.me/astanajug) — Java.
+- [PHP Developers KZ](https://t.me/phpdevconf) — PHP.
+- [Rust Kazakhstan](https://t.me/rustlang_kz) — Rust.
+- [.NET Kazakhstan](https://t.me/dotnetgroup) — .NET.
+- [iOS Developers KZ](https://t.me/iOSDevelopers_KZ) — iOS.
+- [Flutter Dart KZ](https://t.me/dart_kz) — Flutter/Dart.
+- [KazDevOps](https://t.me/devopskaz) — DevOps.
+- [AQA Kazakhstan](https://t.me/AQA_kz) — QA-автоматизация.
+
+> 📚 Более полный и регулярно обновляемый список — [KZ-IT-telegram-list](https://github.com/c0rp-aubakirov/KZ-IT-telegram-list).
+> ⚠️ Ссылки на Telegram-чаты со временем протухают — нашли мёртвую? [Сообщите через PR/Issue](CONTRIBUTING.md).
 
 ## 📰 Медиа и блоги
 
@@ -107,26 +128,53 @@
 
 ## 📊 Датасеты
 
+### Государственные / открытые данные
+
 - [data.egov.kz](https://data.egov.kz) — статистика, реестры, справочники в открытом доступе.
 - [Бюро национальной статистики (stat.gov.kz)](https://stat.gov.kz) — демография, экономика, рынки.
-- Казахские NLP-датасеты (кириллица/латиница, речь) — добавляйте ссылки через PR.
+
+### Казахский язык (речь и текст)
+
+- [ISSAI Datasets](https://issai.nu.edu.kz/issai-datasets/) — портал датасетов Института умных систем и ИИ (Nazarbayev University).
+- [IS2AI/Kazakh_TTS](https://github.com/IS2AI/Kazakh_TTS) — корпус синтеза речи (KazakhTTS2), 271 час, 5 дикторов.
+- [IS2AI/ISSAI_SAIDA_Kazakh_ASR](https://github.com/IS2AI/ISSAI_SAIDA_Kazakh_ASR) — крупнейший открытый корпус распознавания речи (KSC2), ~1.2k часов.
+- [IS2AI/KazNERD](https://github.com/IS2AI/KazNERD) — датасет распознавания именованных сущностей (25 классов, 112k предложений).
+- [IS2AI (GitHub)](https://github.com/IS2AI) — другие открытые датасеты и модели по казахскому языку.
 
 ## 🛠️ Инструменты и библиотеки
 
 Open-source инструменты, полезные именно в казахстанском контексте.
 
-- **Валидация ИИН/БИН** — библиотеки для проверки индивидуальных/бизнес-идентификаторов.
-- **Транслитерация кириллица↔латиница** — конвертеры казахского текста.
-- **Казахская раскладка / NLP** — токенизация, склонение имён.
+### Валидация ИИН/БИН
 
-> 🚧 Раздел активно наполняется. Сделали такой инструмент? [Добавьте его!](CONTRIBUTING.md)
+- [ZhymabekRoman/kz-iin-validator](https://github.com/ZhymabekRoman/kz-iin-validator) — проверка и извлечение данных из ИИН, Python 3 ([PyPI](https://pypi.org/project/kz-iin-validator/)).
+- [Mi7teR/inn-validate](https://github.com/Mi7teR/inn-validate) — валидация ИИН и БИН физ- и юрлиц, JavaScript/npm.
+- [DiyazY/IIN-BIN](https://github.com/DiyazY/IIN-BIN) — валидация и парсинг ИИН/БИН, JavaScript.
+
+### Транслитерация (кириллица ↔ латиница)
+
+- [talgautb/qazlatyn-db](https://github.com/talgautb/qazlatyn-db) — данные казахского латинского алфавита (qazaq latyn), npm.
+- [pheeria/qazaqca](https://github.com/pheeria/qazaqca) — транслитератор казахского с кириллицы на латиницу.
+
+### NLP и обработка языка
+
+- [nlacslab/kaznlp](https://github.com/nlacslab/kaznlp) — NLP-пайплайн для казахского: токенизация, морфология, NER, нормализация (Python).
+- [nlacslab/kazdet](https://github.com/nlacslab/kazdet) — Kazakh Dependency Treebank (синтаксический корпус).
+
+> 🚧 Раздел растёт. Сделали или знаете такой инструмент? [Добавьте его!](CONTRIBUTING.md)
 
 ## 💼 Поиск работы
 
 - [hh.kz](https://hh.kz) — крупнейший job-борд.
 - [LinkedIn](https://linkedin.com) — актуально для международных и продуктовых вакансий.
 - [Astana Hub Jobs](https://astanahub.com) — вакансии резидентов технопарка.
-- Telegram-каналы с IT-вакансиями — добавляйте проверенные через PR.
+
+**Telegram-каналы с вакансиями:**
+
+- [Work IT KZ](https://t.me/workitkz) — IT-вакансии Казахстана.
+- [DevKZ Jobs](https://t.me/devkz_jobs) — вакансии от сообщества devkz.
+- [IT Jobs (DSML.KZ)](https://t.me/it_jobs_kz) — вакансии в Data Science / ML.
+- [Golang vacancies in KZ](https://t.me/go_kz_vacancy) — вакансии для Go-разработчиков.
 
 ---
 
