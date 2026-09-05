@@ -130,3 +130,4 @@ Open-source инструменты, полезные именно в казах�
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](LICENSE)
 
 Этот список распространяется под лицензией [CC0 1.0](LICENSE) — используйте свободно.
+# awesome-kazakhstan-dev
