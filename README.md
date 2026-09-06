@@ -28,7 +28,7 @@
 - [📰 Медиа и блоги](#-медиа-и-блоги)
 - [🎤 Конференции и события](#-конференции-и-события)
 - [🔌 API и открытые данные](#-api-и-открытые-данные)
-- [📊 Датасеты](#-датасеты)
+- [🤖 ИИ и Data Science](#-ии-и-data-science)
 - [🛠️ Инструменты и библиотеки](#️-инструменты-и-библиотеки)
 - [💼 Поиск работы](#-поиск-работы)
 - [🤝 Как внести вклад](#-как-внести-вклад)
@@ -126,24 +126,15 @@
 ## 🔌 API и открытые данные
 
 - [eGov Open Data (data.egov.kz)](https://data.egov.kz) — портал открытых данных правительства РК.
+- [Бюро национальной статистики (stat.gov.kz)](https://stat.gov.kz) — демография, экономика, рынки и справочники в открытом доступе.
 - [Национальный банк РК — курсы валют](https://nationalbank.kz) — официальные курсы (XML/API).
 - [Kazpost API](https://post.kz) — отслеживание отправлений (по запросу).
 - [2GIS API](https://dev.2gis.ru) — карты, геокодинг, справочник организаций (покрытие КЗ).
 
-## 📊 Датасеты
+## 🤖 ИИ и Data Science
 
-### Государственные / открытые данные
-
-- [data.egov.kz](https://data.egov.kz) — статистика, реестры, справочники в открытом доступе.
-- [Бюро национальной статистики (stat.gov.kz)](https://stat.gov.kz) — демография, экономика, рынки.
-
-### Казахский язык (речь и текст)
-
-- [ISSAI Datasets](https://issai.nu.edu.kz/issai-datasets/) — портал датасетов Института умных систем и ИИ (Nazarbayev University).
-- [IS2AI/Kazakh_TTS](https://github.com/IS2AI/Kazakh_TTS) — корпус синтеза речи (KazakhTTS2), 271 час, 5 дикторов.
-- [IS2AI/ISSAI_SAIDA_Kazakh_ASR](https://github.com/IS2AI/ISSAI_SAIDA_Kazakh_ASR) — крупнейший открытый корпус распознавания речи (KSC2), ~1.2k часов.
-- [IS2AI/KazNERD](https://github.com/IS2AI/KazNERD) — датасет распознавания именованных сущностей (25 классов, 112k предложений).
-- [IS2AI (GitHub)](https://github.com/IS2AI) — другие открытые датасеты и модели по казахскому языку.
+- [awesome-kaz-datasets](https://github.com/Allessyer/awesome-kaz-datasets) — кураторский каталог открытых датасетов на казахском языке (NLP, ASR, TTS, CV).
+- [awesome-kaz-models](https://github.com/alenisaw/awesome-kaz-models) — каталог открытых AI-моделей с поддержкой казахского языка (LLM, VLM, Speech, OCR).
 
 ## 🛠️ Инструменты и библиотеки
 
