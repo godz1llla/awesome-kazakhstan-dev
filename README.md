@@ -83,9 +83,11 @@
 
 - [Astana Hub Community](https://astanahub.com) — крупнейшее IT-сообщество страны.
 - [GDG (Google Developer Groups) Almaty / Astana](https://gdg.community.dev) — митапы Google-разработчиков.
+- [Телеграм чат GDG Konaev] (https://t.me/gdgkonaev) - телеграм чат сообщества разработчиков в Конаеве.
 
 ### Telegram — общие
 
+- [Dev.kz chat] (https://t.me/devs_qz) - чат телеграм канала Devs.kz
 - [Programmers Kazakhstan (devkz)](https://t.me/devkz) — главный чат разработчиков КЗ.
 - [IT.kz (allkzit)](https://t.me/allkzit) — общий IT-чат страны.
 - [The Tech KZ Chat](https://t.me/thetechkzchat) — сообщество вокруг медиа The Tech.
@@ -122,6 +124,7 @@
 - [Digital Almaty](https://digitalalmaty.kz) — крупнейший цифровой форум региона.
 - [Astana Hub Battle / Decentrathon](https://astanahub.com) — хакатоны и питч-баттлы.
 - [nFactorial Demo Day](https://www.nfactorial.school) — демо-день выпускников инкубатора.
+- [BCC HUB Conf] (https://bcchub.kz/en/bcc-hub-conf) - конференция финтех компании BCC HUB
 
 ## 🔌 API и открытые данные
 
@@ -174,7 +177,7 @@ Open-source инструменты, полезные именно в казах�
 - [Astana Hub Jobs](https://astanahub.com) — вакансии резидентов технопарка.
 
 **Telegram-каналы с вакансиями:**
-
+- [Devs.kz] (https://t.me/devs_kz) - IT вакансии Казахстана и Узбекистана
 - [Work IT KZ](https://t.me/workitkz) — IT-вакансии Казахстана.
 - [DevKZ Jobs](https://t.me/devkz_jobs) — вакансии от сообщества devkz.
 - [IT Jobs (DSML.KZ)](https://t.me/it_jobs_kz) — вакансии в Data Science / ML.
