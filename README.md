@@ -108,6 +108,7 @@
 - [AQA Kazakhstan](https://t.me/AQA_kz) — QA-автоматизация.
 - [DataKZ](https://t.me/datakz) — DS, ML, Data Engineering.
 - [KZ BI](https://t.me/kz_bi) — Data & BI аналитики.
+- [Apps Script] (https://t.me/googleappscriptkz_workspace) - Google Apps script и Workspace community
 
 > 📚 Более полный и регулярно обновляемый список — [KZ-IT-telegram-list](https://github.com/c0rp-aubakirov/KZ-IT-telegram-list).
 > ⚠️ Ссылки на Telegram-чаты со временем протухают — нашли мёртвую? [Сообщите через PR/Issue](CONTRIBUTING.md).
