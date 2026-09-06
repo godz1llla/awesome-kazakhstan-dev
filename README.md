@@ -28,7 +28,7 @@
 - [📰 Медиа и блоги](#-медиа-и-блоги)
 - [🎤 Конференции и события](#-конференции-и-события)
 - [🔌 API и открытые данные](#-api-и-открытые-данные)
-- [📊 Датасеты](#-датасеты)
+- [🤖 ИИ и Data Science](#-ии-и-data-science)
 - [🛠️ Инструменты и библиотеки](#️-инструменты-и-библиотеки)
 - [💼 Поиск работы](#-поиск-работы)
 - [🤝 Как внести вклад](#-как-внести-вклад)
@@ -83,10 +83,12 @@
 
 - [Astana Hub Community](https://astanahub.com) — крупнейшее IT-сообщество страны.
 - [GDG (Google Developer Groups) Almaty / Astana](https://gdg.community.dev) — митапы Google-разработчиков.
+- [GDG Konaev](https://t.me/gdgkonaev) — чат сообщества разработчиков в Конаеве.
 
 ### Telegram — общие
 
 - [Programmers Kazakhstan (devkz)](https://t.me/devkz) — главный чат разработчиков КЗ.
+- [Dev.kz chat](https://t.me/devs_qz) — чат телеграм-канала Devs.kz.
 - [IT.kz (allkzit)](https://t.me/allkzit) — общий IT-чат страны.
 - [The Tech KZ Chat](https://t.me/thetechkzchat) — сообщество вокруг медиа The Tech.
 
@@ -106,6 +108,7 @@
 - [AQA Kazakhstan](https://t.me/AQA_kz) — QA-автоматизация.
 - [DataKZ](https://t.me/datakz) — DS, ML, Data Engineering.
 - [KZ BI](https://t.me/kz_bi) — Data & BI аналитики.
+- [Apps Script KZ](https://t.me/googleappscriptkz_workspace) — Google Apps Script и Workspace.
 
 > 📚 Более полный и регулярно обновляемый список — [KZ-IT-telegram-list](https://github.com/c0rp-aubakirov/KZ-IT-telegram-list).
 > ⚠️ Ссылки на Telegram-чаты со временем протухают — нашли мёртвую? [Сообщите через PR/Issue](CONTRIBUTING.md).
@@ -122,20 +125,22 @@
 - [Digital Almaty](https://digitalalmaty.kz) — крупнейший цифровой форум региона.
 - [Astana Hub Battle / Decentrathon](https://astanahub.com) — хакатоны и питч-баттлы.
 - [nFactorial Demo Day](https://www.nfactorial.school) — демо-день выпускников инкубатора.
+- [BCC HUB Conf](https://bcchub.kz/en/bcc-hub-conf) — конференция финтех-компании BCC HUB.
 
 ## 🔌 API и открытые данные
 
 - [eGov Open Data (data.egov.kz)](https://data.egov.kz) — портал открытых данных правительства РК.
+- [Бюро национальной статистики (stat.gov.kz)](https://stat.gov.kz) — демография, экономика, рынки.
 - [Национальный банк РК — курсы валют](https://nationalbank.kz) — официальные курсы (XML/API).
 - [Kazpost API](https://post.kz) — отслеживание отправлений (по запросу).
 - [2GIS API](https://dev.2gis.ru) — карты, геокодинг, справочник организаций (покрытие КЗ).
 
-## 📊 Датасеты
+## 🤖 ИИ и Data Science
 
-### Государственные / открытые данные
+### Каталоги датасетов и моделей
 
-- [data.egov.kz](https://data.egov.kz) — статистика, реестры, справочники в открытом доступе.
-- [Бюро национальной статистики (stat.gov.kz)](https://stat.gov.kz) — демография, экономика, рынки.
+- [awesome-kaz-datasets](https://github.com/Allessyer/awesome-kaz-datasets) — кураторский каталог открытых датасетов на казахском языке (NLP, ASR, TTS, CV).
+- [awesome-kaz-models](https://github.com/alenisaw/awesome-kaz-models) — каталог открытых AI-моделей с поддержкой казахского языка (LLM, VLM, Speech, OCR).
 
 ### Казахский язык (речь и текст)
 
@@ -175,6 +180,7 @@ Open-source инструменты, полезные именно в казах�
 
 **Telegram-каналы с вакансиями:**
 
+- [Devs.kz](https://t.me/devs_kz) — IT-вакансии Казахстана и Узбекистана.
 - [Work IT KZ](https://t.me/workitkz) — IT-вакансии Казахстана.
 - [DevKZ Jobs](https://t.me/devkz_jobs) — вакансии от сообщества devkz.
 - [IT Jobs (DSML.KZ)](https://t.me/it_jobs_kz) — вакансии в Data Science / ML.
