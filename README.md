@@ -165,6 +165,10 @@ Open-source инструменты, полезные именно в казах�
 - [talgautb/qazlatyn-db](https://github.com/talgautb/qazlatyn-db) — данные казахского латинского алфавита (qazaq latyn), npm.
 - [pheeria/qazaqca](https://github.com/pheeria/qazaqca) — транслитератор казахского с кириллицы на латиницу.
 
+### Ввод текста и раскладки
+
+- [elapen/tilqos](https://github.com/elapen/tilqos) — исправляет текст, набранный не в той раскладке (английский, русский, казахский), и переключает раскладку; приложение для macOS, работает офлайн и без телеметрии.
+
 ### NLP и обработка языка
 
 - [nlacslab/kaznlp](https://github.com/nlacslab/kaznlp) — NLP-пайплайн для казахского: токенизация, морфология, NER, нормализация (Python).
