@@ -148,6 +148,7 @@
 - [IS2AI/Kazakh_TTS](https://github.com/IS2AI/Kazakh_TTS) — корпус синтеза речи (KazakhTTS2), 271 час, 5 дикторов.
 - [IS2AI/ISSAI_SAIDA_Kazakh_ASR](https://github.com/IS2AI/ISSAI_SAIDA_Kazakh_ASR) — крупнейший открытый корпус распознавания речи (KSC2), ~1.2k часов.
 - [IS2AI/KazNERD](https://github.com/IS2AI/KazNERD) — датасет распознавания именованных сущностей (25 классов, 112k предложений).
+- [liaizhan/kazakh-body-wellbeing-lexicon](https://github.com/liaizhan/kazakh-body-wellbeing-lexicon) — параллельный словарь о теле и самочувствии: 83 термина и 1 913 ключевых слов на казахском, русском и английском, CC BY 4.0.
 - [IS2AI (GitHub)](https://github.com/IS2AI) — другие открытые датасеты и модели по казахскому языку.
 
 ## 🛠️ Инструменты и библиотеки
